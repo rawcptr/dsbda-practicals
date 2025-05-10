@@ -16,3 +16,5 @@
 10 files
 
 ```
+
+link: <https://raw.githubusercontent.com/rawcptr/dsbda-practicals/refs/heads/main/{practical-num}.ipynb>
